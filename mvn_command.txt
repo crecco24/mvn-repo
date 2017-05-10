@@ -1,0 +1,1 @@
+mvn install:install-file -DpomFile=../cs331/semanticactions/pom.xml -Dfile=../cs331/semanticactions/target/semantic-actions-1.0.0.jar -DlocalRepositoryPath=..\mvn-repo
